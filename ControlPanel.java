@@ -23,6 +23,30 @@ public class ControlPanel extends JPanel {
         JLabel labelC = new JLabel("c:");
         cField = new JTextField(String.valueOf(equation.getC()), 6);
 
-    
+            plotButton = new JButton("Plot Parabola");
+ 
+        plotButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                try {
+                    double a = Double.parseDouble(aField.getText());
+                    double b = Double.parseDouble(bField.getText());
+                    double c = Double.parseDouble(cField.getText());
+
+                    equation.setCoefficients(a, b, c);
+                    graphPanel.repaint();
+
+                } catch (NumberFormatException ex) {
+                    JOptionPane.showMessageDialog(ControlPanel.this,
+                            "Invalid input. Please enter valid numeric values.",
+                            "Input Error", JOptionPane.ERROR_MESSAGE);
+                }
+            }
+        });
+
+        add(labelA); add(aField);
+        add(labelB); add(bField);
+        add(labelC); add(cField);
+        add(plotButton);
     }
 }
