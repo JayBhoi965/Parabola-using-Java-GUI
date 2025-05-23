@@ -73,8 +73,7 @@ Output Window:
 ![](https://uc2a0ad80502904342adb4cd6595.previews.dropboxusercontent.com/p/thumb/ACoMZkgJX7hgiFebMmUcQFnCOUjzkzFr0GMdMQAmOQd7xbDcHA3NQenpUy70A3209Y59l0BcYC5QkwBquePZvN9lxD0amAjS65MpOchwsCK1DU3R1UKgy7nj7fxVzUWB9vopSD9TQr0b_NccQErsXJN61KfTQAZPWuGzoSR3WrgJUgLrjS_fQlROhbJcTucMsJui5yRTBAa5AuOvi4LAM_S04lzstpilptn0ylRDzSaFDC4R1oDnyahrnV1p0vKzecatx8ejuJQIfh2jHkn9z9SkA8f4VyMJ8DLmNkl6R8ZpE64UXPb_Hzjv4hAF5cgD6P4fG5eK7E2RXtJpxSNrdz3yGnuh4qCy4RELOfWYwvi_inJkWWmNSWOgCrhW9XQ621U/p.png?is_prewarmed=true)
 
 
-      **終わり**
-
+   終わり
 
 
 
