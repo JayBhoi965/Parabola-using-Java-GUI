@@ -2,6 +2,6 @@ com/parabola/gui/
 ├── [✓] MainApp.java                -- Main launcher class
 ├── [✓] GraphWindow.java            -- Sets up JFrame and layout
 ├── [✓] ControlPanel.java           -- Input fields and buttons
-├── [x] ParabolaPanel.java          -- Drawing area for graph
+├── [✓] ParabolaPanel.java          -- Drawing area for graph
 ├── [x] ParabolaEquation.java       -- Data model for coefficients
 ├── [x] GraphUtils.java             -- Utility functions for drawing
