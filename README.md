@@ -22,11 +22,17 @@ Your must be project is inside a package called: `com.parabola.gui`
 Here are the File organisation:
 
 com/parabola/gui/
+
 ├── MainApp.java 
+
 ├── GraphWindow.java  
+
 ├── ControlPanel.java  
+
 ├── ParabolaPanel.java  
+
 ├── ParabolaEquation.java 
+
 ├── GraphUtils.java 
 
 
