@@ -15,6 +15,11 @@ This Java project is a modular GUI-based parabola plotter that lets users input 
 
 ---
 
+ 
+> Click Here for [**Preview**](https://www.dropbox.com/scl/fi/4jtxk2af471q1j91tjjzj/Screen-Recording-2025-06-05-at-6.40.18-PM.mov?rlkey=uvioplv1bn2kgjbo5919scjq2&st=9ktabs6k&dl=0).
+
+
+
 ## 📁 Project Files
 
 Your must be project is inside a package called: `com.parabola.gui`
